@@ -10,9 +10,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@openzeppelin/truffle-upgrades": "^1.21.0",
     "truffle": "^5.11.5"
   },
   "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1",
     "web3": "^4.5.0"
   }
 }
